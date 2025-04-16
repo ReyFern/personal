@@ -24,3 +24,19 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+main {
+  font-family:'Courier New', Courier, monospace;
+}
+
+p {
+  font-size: large;
+}
+
+.terminal {
+  border: none;
+}
+
+.terminal:focus {
+  outline:none;
+}
