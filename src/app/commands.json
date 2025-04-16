@@ -1,0 +1,4 @@
+{
+    "help": ["help: Get list of all commands", "whoami: Description of who I am"],
+    "whoami": "Hello there! This is the personal website of Rehan, a computer science student from the UK. I am currently working on my A-levels and aspire to become a software engineer or game developer. Feel free to have a look around. :D"
+}
